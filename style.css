@@ -21,6 +21,10 @@
   height: 29px;
   margin: 40px 0px 0px 24px;
 }
+#sidebar > ul{
+    list-style-type: none;
+    margin-top: 40px;
+}
 #sidebar > ul > li {
   display: flex;
   align-items: center;
