@@ -83,6 +83,11 @@ footer{
     justify-content: space-between;
     align-items: center;
 }
+#user_profile_left {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
 #user_profile_left>img{
     border-radius: 50%;
     width: 56px;
@@ -108,7 +113,7 @@ footer{
     font-weight: 600;
     line-height: 16px;
     text-decoration: none;
-    padding-inline: 20px;
+    
 }
 #footer_suggestions{
     display: flex;
