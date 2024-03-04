@@ -23,7 +23,7 @@
 }
 #sidebar > ul{
     list-style-type: none;
-    margin-top: 40px;
+    margin-top: 30px;
 }
 #sidebar > ul > li {
   display: flex;
