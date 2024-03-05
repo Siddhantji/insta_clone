@@ -14,7 +14,7 @@
   min-width: 180px;
   display: flex;
   flex-direction: column;
-  border-right: 1px solid black;
+  border-right: 1px solid #dbdbdb;
 }
 #sidebar > img {
   width: 103px;
